@@ -1,0 +1,50 @@
+1. Meta.
+2. Google (Google DeepMind).
+3. Anthropic.
+4. xAI.
+5. Mistral AI.
+6. OpenAI.
+7. AI-generated video.
+8. Google.
+9. AI image generation.
+10. AI-assisted coding and code completion.
+11. Large Language Model.
+12. AI that creates new content such as text, images, audio, video, or code.
+13. An instruction or input given to an AI model.
+14. A high-level instruction that defines how an AI assistant should behave.
+15. AI that can work with more than one data type, such as text, images, audio, or video.
+16. A confident but incorrect or unsupported AI-generated answer.
+17. Small units of text that an LLM processes.
+18. The amount of information or tokens the model can consider at one time.
+19. Using a trained model to generate predictions or responses.
+20. Further training an existing model on specific data for a specialized task.
+21. An AI system that can plan, use tools, and perform multi-step tasks.
+22. A chatbot mainly responds, while an agent can take actions and use tools to complete tasks.
+23. Allowing an AI model to invoke external functions, APIs, or tools.
+24. Model Context Protocol.
+25. It authenticates and authorizes access to the AI service.
+26. A restriction on how many API requests can be made within a given time.
+27. An AI-powered code editor/IDE.
+28. Their own documents and source materials.
+29. Search based on meaning rather than only exact keywords.
+30. Code generation, debugging, and test-case creation.
+31. AI that converts spoken audio into written text.
+32. AI that converts written text into spoken audio.
+33. Text.
+34. An AI model that understands or analyzes images and visual content.
+35. AI that generates video from a text description.
+36. Generating images and other media from noise through iterative denoising.
+37. They perform many parallel calculations efficiently.
+38. Neural Processing Unit.
+39. Model weights and intermediate data used by the GPU.
+40. Running the model on your own computer or server instead of a remote cloud service.
+41. A model whose trained weights are made available for users to download and run.
+42. Training a smaller model to imitate a larger model's behavior.
+43. Parameter-efficient fine-tuning of large AI models.
+44. Mixture of Experts.
+45. A standardized test used to compare AI model performance.
+46. A rule or control used to keep AI behavior safe and within allowed limits.
+47. An attack that tries to manipulate an AI model through malicious instructions.
+48. Personally Identifiable Information.
+49. It may create privacy, security, or data-leakage risks.
+50. Verify it using trusted and authoritative sources.
